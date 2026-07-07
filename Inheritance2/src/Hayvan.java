@@ -9,7 +9,7 @@ public class Hayvan {
         this.isim = isim;
         this.boy = boy;
         this.kilo = kilo;
-        this.bacak_sayisi = bacak_sayisi;
+        this.bacak_sayisi = bacak_sayisi; 
     }
     public void yemek_ye(){
         System.out.println("Hayvan şu anda yemek yiyor...");
