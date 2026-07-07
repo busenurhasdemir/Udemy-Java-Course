@@ -9,7 +9,7 @@ public class Main {
         abone.dogalgaz_kullan(200);
 
         GelismisAbone gelismisAbone = new GelismisAbone("Buse",200,"Ankara");
-        gelismisAbone.bakiye_ogren();
+        gelismisAbone.bakiye_ogren(); 
 
     }
 }
