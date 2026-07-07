@@ -51,7 +51,7 @@ class At extends Hayvan{
     }
 }
 
-class Kus extends Hayvan{
+class Kus extends Hayvan{ 
 
     public Kus(String isim) {
         super(isim);
