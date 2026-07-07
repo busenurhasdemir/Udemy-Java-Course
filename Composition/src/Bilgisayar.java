@@ -15,7 +15,7 @@ public class Bilgisayar {
     }
 
     public void setMonitor(Monitor monitor) {
-        this.monitor = monitor;
+        this.monitor =  monitor; 
     }
 
     public Kasa getKasa() {
